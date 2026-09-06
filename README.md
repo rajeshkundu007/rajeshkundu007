@@ -3,7 +3,8 @@
 
 # I am Rajesh Kundu
 
-- 🔭 I’m currently working as a Student of Electrical Engineering at Ramkrishna Mahato Govt. Engineering College
+- 🔭 I’m currently working as a Student of Electrical Engineering at Ramkrishna Mahato Govt. Engineering College, Purulia
+
 
 
 
@@ -17,6 +18,8 @@
 ![](https://streak-stats.demolab.com/?user=rajeshkundu007&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajeshkundu007&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rajeshkundu007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=rajeshkundu007&icon=6&color=4)](https://visitcount.itsvg.in)
